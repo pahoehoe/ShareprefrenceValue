@@ -3,6 +3,10 @@ package com.example.ktapplication
 import android.content.Context
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.kaptowka.preference.Preferences
+import com.kaptowka.preference.PreferencesValue
+import com.kaptowka.preference.preferenceGet
+import com.kaptowka.preference.preferenceSave
 
 
 class MainActivity : AppCompatActivity() {

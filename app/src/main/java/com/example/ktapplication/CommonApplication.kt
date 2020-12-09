@@ -1,6 +1,7 @@
 package com.example.ktapplication
 
 import android.app.Application
+import com.kaptowka.preference.Preferences
 
 class CommonApplication: Application() {
 

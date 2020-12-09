@@ -1,4 +1,4 @@
-package com.example.ktapplication
+package com.kaptowka.preference
 
 import android.content.Context
 import java.lang.RuntimeException
