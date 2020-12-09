@@ -4,7 +4,8 @@ plugins {
     id "com.github.dcendents.android-maven" version "2.1"
 }
 
-group='com.картошка.pahoehoe'
+//这个好像没啥用
+//group='com.картошка.pahoehoe'
 
 android {
     compileSdkVersion 30
