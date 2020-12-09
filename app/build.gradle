@@ -36,5 +36,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-    implementation project(path: ':library')
+//    implementation project(path: ':library')
+
+    implementation 'com.github.pahoehoe:ShareprefrenceValue:0.0.1'
 }
