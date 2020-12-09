@@ -1,7 +1,10 @@
 plugins {
     id 'com.android.library'
     id 'kotlin-android'
+    id "com.github.dcendents.android-maven" version "2.1"
 }
+
+group='com.github.pahoehoe'
 
 android {
     compileSdkVersion 30
